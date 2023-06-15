@@ -26,6 +26,11 @@
     {
       "name": "LightedPolesPlus",
       "enabled": true
+    },
+    
+    {
+      "name": "WideChests",
+      "enabled": true
     }
   ]
 }
