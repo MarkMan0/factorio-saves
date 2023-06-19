@@ -14,6 +14,16 @@
     },
     
     {
+      "name": "BottleneckLite",
+      "enabled": true
+    },
+    
+    {
+      "name": "Concreep",
+      "enabled": true
+    },
+    
+    {
       "name": "flib",
       "enabled": true
     },
@@ -25,11 +35,6 @@
     
     {
       "name": "LightedPolesPlus",
-      "enabled": true
-    },
-    
-    {
-      "name": "WideChests",
       "enabled": true
     }
   ]
