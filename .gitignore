@@ -2,3 +2,10 @@ saves/_autosave*.zip
 saves/*.vdf
 
 
+crop-cache.dat
+factorio-current.log
+factorio-previous.log
+player-data.json
+server-adminlist.json
+config/*
+temp/*
