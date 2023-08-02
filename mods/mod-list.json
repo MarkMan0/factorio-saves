@@ -24,6 +24,11 @@
     },
     
     {
+      "name": "EditorExtensions",
+      "enabled": true
+    },
+    
+    {
       "name": "flib",
       "enabled": true
     },
