@@ -10,3 +10,7 @@ server-adminlist.json
 config/*
 temp/*
 scenarios/
+bin/
+data/
+doc-html/
+config-path.cfg
